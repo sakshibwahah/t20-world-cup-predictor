@@ -117,7 +117,7 @@ st.markdown("""
     }
 </style>
 <div class="footer">
-    <p>Developed by <b>Sakshi Shukla</b> | Advanced T20 Analytics Engine</p>
+    <p>Developed by <b>Sakshi Shukla</b> | T20 Predictor</p>
 </div>
 """, unsafe_allow_html=True)
 
