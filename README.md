@@ -23,7 +23,7 @@ The system is built upon a dual-model framework to ensure high accuracy across d
 
 ## Technology Stack
 
-* **Programming Language:** Python 3.9+
+* **Programming Language:** Python 3.11.4
 * **Frontend Framework:** Streamlit
 * **Machine Learning:** Scikit-Learn (Random Forest, Gradient Boosting)
 * **Data Manipulation:** Pandas, NumPy
