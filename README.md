@@ -1,7 +1,7 @@
 # T20 World Cup Analytics and Prediction Engine
 
 ## Project Overview
-This project is an advanced machine learning application designed to analyze and predict the outcomes of T20 International cricket matches. Developed as a final-year engineering project, the system utilizes a hybrid machine learning architecture to provide real-time decision support and predictive analytics.
+This project is an advanced machine learning application designed to analyze and predict the outcomes of T20 International cricket matches. Developed as a independent individual engineering project, the system utilizes a hybrid machine learning architecture to provide real-time decision support and predictive analytics.
 
 The application serves two primary functions: predicting first-innings scores based on current match progression and forecasting match winners by analyzing historical venue data and live game contexts.
 
